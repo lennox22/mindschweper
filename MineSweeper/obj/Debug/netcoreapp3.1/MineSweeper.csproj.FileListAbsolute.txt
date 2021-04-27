@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.exe
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.deps.json
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.runtimeconfig.json
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csprojAssemblyReference.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.genruntimeconfig.cache

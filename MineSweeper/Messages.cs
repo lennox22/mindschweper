@@ -11,10 +11,19 @@ namespace MineSweeper
             switch (error)
             {
                 case 1:
-                    Console.Write("\n\n:::Please enter a positive integer greater than 0: ");
+                    Console.Write("\n\n:::Please enter a positive integer between 1 and no more than 30: ");
                     break;
                 case 2:
-                    Console.Write($"\n\n:::Please enter a positive integer greater than 0 and less than {GenerateBoard.gameboard.Length}: ");
+                    Console.Write($"\n\n:::Please enter a positive integer between 1 and {GenerateBoard.gameboard.Length-1}: ");
+                    break;
+                case 3:
+                    Console.Write($"\n\n:::Please enter a positive integer between 1 and {GenerateBoard.gameboard.GetLength(1)}: ");
+                    break;
+                case 4:
+                    Console.Write($"\n\n:::Please enter a positive integer between 1 and {GenerateBoard.gameboard.GetLength(0)}: ");
+                    break;
+                case 5:
+                    Console.Write($"\n\n:::You've already uncovered that square. Please choose another.");
                     break;
             }
         }

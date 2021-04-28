@@ -9,10 +9,15 @@ namespace MineSweeper
     {
         static void Main(string[] args)
         {
+            bool notover = true;
             //animations.gameName();   //for quicker testing disable this line
             GenerateBoard.CreateBoard();
-            GenerateMinds.loadMinds();
-
+            
+            GenerateBoard.showboard();
+            do
+            {
+                PlayerMove.userMove();
+            } while (notover);
 
         }
     }

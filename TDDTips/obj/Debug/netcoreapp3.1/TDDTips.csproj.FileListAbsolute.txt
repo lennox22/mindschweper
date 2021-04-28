@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.exe
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.deps.json
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.runtimeconfig.json
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\bin\Debug\netcoreapp3.1\TDDTips.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.csprojAssemblyReference.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\TDDTips\obj\Debug\netcoreapp3.1\TDDTips.genruntimeconfig.cache

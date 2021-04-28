@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\lbrown4\dev\Week6\TDDKata\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

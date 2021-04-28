@@ -22,5 +22,15 @@ namespace MineSweeper
             }
             return onOff;
         }
+        public int randoX(int rows)
+        {
+            int x = rand.Next(rows);
+            return x;
+        }
+        public int randoY(int columns)
+        {
+            int y = rand.Next(columns);
+            return y;
+        }
     }
 }

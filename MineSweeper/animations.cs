@@ -7,6 +7,105 @@ namespace MineSweeper
 {
     class animations
     {
+        public static void boom()
+        {
+            Console.Clear();
+            Console.WriteLine("\n\n\n");
+            Console.WriteLine("\t                                                                                                    ");
+            Console.WriteLine("\t                                                                                                   ");
+            Console.WriteLine("\t                                                                                                    ");
+            Console.WriteLine("\t                                                                                                     ");
+            Console.WriteLine("\t                                                                                                    ");
+            Console.WriteLine("\t                                                                                               ");
+            Console.WriteLine("\t                        BBBBB     OOOO    OOOO   MM        MM                                ");
+            Console.WriteLine("\t                        BB  BB   OO  OO  OO  OO  MMM      MMM                                ");
+            Console.WriteLine("\t                        BB   BB  OO  OO  OO  OO  MMMM    MMMM                                ");
+            Console.WriteLine("\t                        BBBBBB   OO  OO  OO  OO  MMMMM  MMMMM                                ");
+            Console.WriteLine("\t                        BB   BB  OO  OO  OO  OO  MM  MMMM  MM                                ");
+            Console.WriteLine("\t                        BB  BB   OO  OO  OO  OO  MM   MM   MM                                 ");
+            Console.WriteLine("\t                        BBBBB     OOOO    OOOO   MM        MM                                 ");
+            Console.WriteLine("\t                                                                                                ");
+            Console.WriteLine("\t                                                                                                   ");
+            Console.WriteLine("\t                                                                                                    ");
+            Console.WriteLine("\t                                                                                                   ");
+            Console.WriteLine("\t                                                                                                   ");
+            Console.WriteLine("\t                                                                                                   ");
+            Console.WriteLine("\t                                                                                                  ");
+            Thread.Sleep(500);
+
+            Console.Clear();
+            Console.WriteLine("\n\n\n");
+            Console.WriteLine("\t                                          \\  |                                                     ");
+            Console.WriteLine("\t                             \\  |   \\  |  |  |  |  |  /                                         ");
+            Console.WriteLine("\t                       \\_ \\ |   \\  |  |   \\ | /   |  |  /  |  / _                              ");
+            Console.WriteLine("\t                      \\_ \\ \\ \\  |   \\  \\  | | |  /  /   |  / / /  _/                           ");
+            Console.WriteLine("\t             __   \\__  \\ \\ \\ \\  \\  |  |  | | |  |  |  /  / / /  / __/___                      ");
+            Console.WriteLine("\t              \\___  \\_                                         _/  /     _____               ");
+            Console.WriteLine("\t          _____   \\___  BBBBB     OOOO    OOOO   MM        MM  ___/     /                    ");
+            Console.WriteLine("\t               \\______  BB  BB   OO  OO  OO  OO  MMM      MMM  ________/      /              ");
+            Console.WriteLine("\t           ___________  BB   BB  OO  OO  OO  OO  MMMM    MMMM  ______________/               ");
+            Console.WriteLine("\t             ---------  BBBBBB   OO  OO  OO  OO  MMMMM  MMMMM  -----------------             ");
+            Console.WriteLine("\t           ___________  BB   BB  OO  OO  OO  OO  MM  MMMM  MM  _______________               ");
+            Console.WriteLine("\t                ______  BB  BB   OO  OO  OO  OO  MM   MM   MM  _________      \\              ");
+            Console.WriteLine("\t          _____/   ___  BBBBB     OOOO    OOOO   MM        MM  ____     \\_____               ");
+            Console.WriteLine("\t               ___/  _                                        \\    \\____                      ");
+            Console.WriteLine("\t           ___/   __/ / / / /  /  |  |  | | |  |  | \\   \\ \\ \\  \\___                           ");
+            Console.WriteLine("\t               __/  _/ / / /  |   /  /  | | |   \\  \\ |   \\ \\ \\__                               ");
+            Console.WriteLine("\t             _/   _/  / / |  /   |  |   / | \\    |  | \\  |  \\                                   ");
+            Console.WriteLine("\t                _/   / | /  |   /   |  |  |  |   |  \\  | \\                                       ");
+            Console.WriteLine("\t                      /    /   |    /  |  |  |   \\   |                                            ");
+            Console.WriteLine("\t                                       /  |  |                                                    ");
+            Thread.Sleep(500);
+
+            Console.Clear();
+            Console.WriteLine("\n\n\n");
+            Console.WriteLine("\t                        \\  \\   \\  |   \\  |  |  |  /   |  /  /                                  ");
+            Console.WriteLine("\t         __     \\_  \\  \\  \\  |   \\  |  |  |  |  |  /   | /   /   /                           ");
+            Console.WriteLine("\t    __     \\__    \\_ \\_ \\ |   \\  |  |   \\ | /   |  |  /  |  / _ / _/                         ");
+            Console.WriteLine("\t      \\___    \\__   \\_ \\ \\ \\  |   \\  \\  | | |  /  /   |  / / /  _/  __/  _                   ");
+            Console.WriteLine("\t          \\___   \\__  \\ \\ \\ \\  \\  |  |  | | |  |  |  /  / / /  / __/____/                    ");
+            Console.WriteLine("\t    ___       \\___  \\_                                         _/  /     _________           ");
+            Console.WriteLine("\t       \\_______   \\___  BBBBB     OOOO    OOOO   MM        MM  ___/     /      ____          ");
+            Console.WriteLine("\t    ______     \\______  BB  BB   OO  OO  OO  OO  MMM      MMM  ________/      /              ");
+            Console.WriteLine("\t          \\___________  BB   BB  OO  OO  OO  OO  MMMM    MMMM  ______________/               ");
+            Console.WriteLine("\t    ------------------  BBBBBB   OO  OO  OO  OO  MMMMM  MMMMM  --------------------------    ");
+            Console.WriteLine("\t           ___________  BB   BB  OO  OO  OO  OO  MM  MMMM  MM  _______________               ");
+            Console.WriteLine("\t    ______/     ______  BB  BB   OO  OO  OO  OO  MM   MM   MM  _________      \\_________     ");
+            Console.WriteLine("\t        _______/   ___  BBBBB     OOOO    OOOO   MM        MM  ____     \\________            ");
+            Console.WriteLine("\t    ___/       ___/  _                                        \\    \\____         \\____       ");
+            Console.WriteLine("\t           ___/   __/ / / / /  /  |  |  | | |  |  | \\   \\ \\ \\  \\___     \\____                ");
+            Console.WriteLine("\t       ___/    __/  _/ / / /  |   /  /  | | |   \\  \\ |   \\ \\ \\__   \\___      \\_              ");
+            Console.WriteLine("\t            __/   _/  / / |  /   |  |   / | \\    |  | \\  |  \\   \\__    \\___                   ");
+            Console.WriteLine("\t         __/    _/   / | /  |   /   |  |  |  |   |  \\  | \\   \\     \\__                         ");
+            Console.WriteLine("\t              _/    / / /  /   |    /  |  |  |   \\   |  \\ \\   \\                                ");
+            Console.WriteLine("\t                     / |  |   /    |   /  |  |    |   \\  | \\                                    ");
+            Thread.Sleep(500);
+
+            Console.Clear();
+            Console.WriteLine("\n\n\n");
+            Console.WriteLine("\t     \\__      \\_  \\_  \\  \\   \\  |   \\  |  |  |  /   |  /  /   /   _/  _/     __/        ____ ");
+            Console.WriteLine("\t _      \\__     \\_  \\  \\  \\  |   \\  |  |  |  |  |  /   | /   /   /  _/    __/      ____/     ");
+            Console.WriteLine("\t  \\___     \\__    \\_ \\_ \\ |   \\  |  |   \\ | /   |  |  /  |  / _ / _/   __/    ____/          ");
+            Console.WriteLine("\t      \\___    \\__   \\_ \\ \\ \\  |   \\  \\  | | |  /  /   |  / / /  _/  __/  ____/      ________ ");
+            Console.WriteLine("\t          \\___   \\__  \\ \\ \\ \\  \\  |  |  | | |  |  |  /  / / /  / __/____/          /         ");
+            Console.WriteLine("\t ______       \\___  \\_                                         _/  /     _________/          ");
+            Console.WriteLine("\t       \\_______   \\___  BBBBB     OOOO    OOOO   MM        MM  ___/     /      _____________ ");
+            Console.WriteLine("\t _________     \\______  BB  BB   OO  OO  OO  OO  MMM      MMM  ________/      /              ");
+            Console.WriteLine("\t          \\___________  BB   BB  OO  OO  OO  OO  MMMM    MMMM  ______________/               ");
+            Console.WriteLine("\t ---------------------  BBBBBB   OO  OO  OO  OO  MMMMM  MMMMM  ----------------------------- ");
+            Console.WriteLine("\t           ___________  BB   BB  OO  OO  OO  OO  MM  MMMM  MM  _______________               ");
+            Console.WriteLine("\t _________/     ______  BB  BB   OO  OO  OO  OO  MM   MM   MM  _________      \\_____________ ");
+            Console.WriteLine("\t        _______/   ___  BBBBB     OOOO    OOOO   MM        MM  ____     \\________            ");
+            Console.WriteLine("\t ______/       ___/  _                                        \\    \\____         \\__________ ");
+            Console.WriteLine("\t           ___/   __/ / / / /  /  |  |  | | |  |  | \\   \\ \\ \\  \\___     \\____                ");
+            Console.WriteLine("\t       ___/    __/  _/ / / /  |   /  /  | | |   \\  \\ |   \\ \\ \\__   \\___      \\____           ");
+            Console.WriteLine("\t   ___/     __/   _/  / / |  /   |  |   / | \\    |  | \\  |  \\   \\__    \\___       \\____      ");
+            Console.WriteLine("\t _/      __/    _/   / | /  |   /   |  |  |  |   |  \\  | \\   \\     \\__     \\___        \\____ ");
+            Console.WriteLine("\t      __/     _/    / / /  /   |    /  |  |  |   \\   |  \\ \\   \\       \\__      \\___          ");
+            Console.WriteLine("\t   __/      _/     / / |  |   /    |   /  |  |    |   \\  | \\   \\         \\         \\         ");
+            Thread.Sleep(500);
+
+        }
         public static void gameName()
         {
             Console.Write($"\t\t\t\t     MMM     MM     MMM  IIIII  NNN      NNNNN  DDDDD\n");

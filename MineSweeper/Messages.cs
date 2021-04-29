@@ -27,5 +27,10 @@ namespace MineSweeper
                     break;
             }
         }
+        public static void gameover()
+        {
+            Console.Write("\n\n:::You hit a mind and went boom. Game Over. Maybe try again or something:::\n\n\nPress enter to continue");
+            Console.ReadLine();
+        }
     }
 }

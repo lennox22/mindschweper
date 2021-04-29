@@ -16,7 +16,7 @@ namespace MineSweeper
             GenerateBoard.showboard();
             do
             {
-                PlayerMove.userMove();
+                notover = PlayerMove.userMove();
             } while (notover);
 
         }

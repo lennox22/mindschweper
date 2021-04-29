@@ -13,7 +13,7 @@ namespace MineSweeper
         {
             bool playAgain = true;
             bool notover = true;
-            //animations.gameName();   //for quicker testing disable this line
+            animations.gameName();   //for quicker testing disable this line
             do
             {
 

@@ -21,15 +21,15 @@ namespace ListDemoTests
 
             Assert.Equal(1, count);
         }
-        [Fact]
-        public void TestQuantities()
-        {
-            Names names = new Names();
-            names.addQuantity("apple", 10);
-            names.addQuantity("apple", 6);
+        //[Fact]
+        //public void TestQuantities()
+        //{
+            //Names names = new Names();
+            //names.addQuantity("apple", 10);
+           // names.addQuantity("apple", 6);
 
-            int amount = names.quantities["apple"];
-            Assert.Equal(16, amount);
-        }
+            //int amount = names.quantities["apple"];
+            //Assert.Equal(16, amount);
+        //}
     }
 }

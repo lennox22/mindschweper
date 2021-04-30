@@ -348,7 +348,7 @@ namespace MineSweeper
             Console.Write($"         SSSSSSS        CCCCCCCC     HHH     HHH   WWW      WWW   EEEEEEEEEE  PPP          EEEEEEEEEE  RRR     RRR\n");
             Thread.Sleep(400);
             Console.Clear();
-
+            /*
             Console.WriteLine("\n\n\n");
             Console.Write($"\t\t\t\t     MMM            MMM  IIIII  NNNNN      NNN  DDDDD\n");
             Console.Write($"\t\t\t\t     MMMM          MMMM  IIIII  NNNNNN     NNN  DDDDDDD\n");
@@ -371,7 +371,7 @@ namespace MineSweeper
             Console.Write($"         SSSSSSS        CCCCCCCC     HHH     HHH   WWW      WWW   EEEEEEEEEE  PPP          EEEEEEEEEE  RRR     RRR\n");
             Thread.Sleep(400);
             Console.Clear();
-
+            */
             Console.WriteLine("\n\n\n\n");
             Console.Write($"\t\t\t\t     MMM            MMM  IIIII  NNNNN      NNN  DDDDD\n");
             Console.Write($"\t\t\t\t     MMMM          MMMM  IIIII  NNNNNN     NNN  DDDDDDD\n");
